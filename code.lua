@@ -1,4 +1,4 @@
--- [[ 
+-- [[ loadstring(game:HttpGet("https://raw.githubusercontent.com/six9log/ggsafe/refs/heads/main/code.lua"))(
 --    DNLL by:SIX 
 -- ]]
 
